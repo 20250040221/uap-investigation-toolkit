@@ -1,0 +1,35 @@
+{
+  "name": "uap-investigation-toolkit",
+  "version": "1.0.0",
+  "description": "Validation, completeness scoring, formatting, and evidence hashing utilities for UAP investigation reports.",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "uap",
+    "ufo",
+    "investigation",
+    "validation",
+    "evidence",
+    "hashing",
+    "reporting"
+  ],
+  "author": "UAP Investigation Toolkit",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-org/uap-investigation-toolkit.git"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "bugs": {
+    "url": "https://github.com/your-org/uap-investigation-toolkit/issues"
+  },
+  "homepage": "https://github.com/your-org/uap-investigation-toolkit#readme"
+}
